@@ -67,6 +67,7 @@ int main() {
         {1, 2, 3, 0, {}, "Vô nghiệm (Δ < 0)"}
     };
     var Test = "111"; //để push lên coi có không
+     var Test1 = "111"; //để push lên coi có không
     var TestBranch = 1111;
     var TestBranch2 = 123;
     int passCount = 0;
