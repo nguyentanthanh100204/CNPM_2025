@@ -67,6 +67,7 @@ int main() {
         {1, 2, 3, 0, {}, "Vô nghiệm (Δ < 0)"}
     };
     var Test = "111"; //để push lên coi có không
+    var TestBranch = 1111;
     int passCount = 0;
     for (size_t i = 0; i < tests.size(); i++) {
         double x[4];
