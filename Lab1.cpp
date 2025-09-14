@@ -68,6 +68,7 @@ int main() {
     };
     var Test = "111"; //để push lên coi có không
     var TestBranch = 1111;
+    var TestBranch2 = 123;
     int passCount = 0;
     for (size_t i = 0; i < tests.size(); i++) {
         double x[4];
