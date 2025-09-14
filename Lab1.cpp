@@ -66,7 +66,7 @@ int main() {
         {1, -5, 4, 4, {2, -2, 1, -1}, "4 nghiệm thực: ±2, ±1"},
         {1, 2, 3, 0, {}, "Vô nghiệm (Δ < 0)"}
     };
-
+    var Test = "111"; //để push lên coi có không
     int passCount = 0;
     for (size_t i = 0; i < tests.size(); i++) {
         double x[4];
